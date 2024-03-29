@@ -1,38 +1,50 @@
 [
     {
-        "image": "./assets/chili.png",
-        "name": "chili"
+        "image": "./assets/deer.png",
+        "name": "deer"
     },
     {
-        "image": "./assets/grapes.png",
-        "name": "grapes"
+        "image": "./assets/dog.png",
+        "name": "dog"
     },
     {
-        "image": "./assets/lemon.png",
-        "name": "lemon"
+        "image": "./assets/duck.png",
+        "name": "duck"
     },
     {
-        "image": "./assets/orange.png",
-        "name": "orange"
+        "image": "./assets/elephant.png",
+        "name": "elephant"
     },
     {
-        "image": "./assets/pineapple.png",
-        "name": "pineapple"
+        "image": "./assets/hedgehog.png",
+        "name": "hedgehog"
     },
     {
-        "image": "./assets/strawberry.png",
-        "name": "strawberry"
+        "image": "./assets/pig.png",
+        "name": "pig"
     },
     {
-        "image": "./assets/tomato.png",
-        "name": "tomato"
+        "image": "./assets/sheep.png",
+        "name": "sheep"
     },
     {
-        "image": "./assets/watermelon.png",
-        "name": "watermelon"
+        "image": "./assets/squirrel.png",
+        "name": "squirrel"
     },
     {
-        "image": "./assets/cherries.png",
-        "name": "cherries"
+        "image": "./assets/turtle.png",
+        "name": "turtle"
+    },
+    {
+        "image": "./assets/fox.png",
+        "name": "fox"
+    },
+    {
+        "image": "./assets/mouse.png",
+        "name": "mouse"
+    },
+    {
+        "image": "./assets/snake.png",
+        "name": "snake"
     }
 ]
